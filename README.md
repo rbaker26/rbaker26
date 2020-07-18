@@ -5,4 +5,8 @@ My current project is the __SAP1Emu Project__, an 8-bit computer emulator built 
 
 
 ### Languages & Skills
-<img src="" alt="html" style="vertical-align:top; margin:4px" />
+<p align="center">
+
+    <img src="./src/csharp.svg" alt="html" style="vertical-align:top; margin:4px" /> <img src="./src/core.svg" alt="html" style="vertical-align:top; margin:4px" /> <img src="./src/asp.svg" alt="html" style="vertical-align:top; margin:4px" /> <img src="./src/visualstudio.svg" alt="html" style="vertical-align:top; margin:4px" /> <img src="./src/wpf.svg" alt="html" style="vertical-align:top; margin:4px" /> <img src="./src/c++.svg" alt="html" style="vertical-align:top; margin:4px" /> <img src="./src/qt.svg" alt="html" style="vertical-align:top; margin:4px" /> <img src="./src/git.svg" alt="html" style="vertical-align:top; margin:4px" /> <img src="./src/html.svg" alt="html" style="vertical-align:top; margin:4px" /> <img src="./src/css3.svg" alt="html" style="vertical-align:top; margin:4px" /> <img src="./src/js.svg" alt="html" style="vertical-align:top; margin:4px" /> <img src="./src/java.svg" alt="html" style="vertical-align:top; margin:4px" />
+
+</p>
