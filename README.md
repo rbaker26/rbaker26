@@ -1,7 +1,7 @@
 ### Hi there,  👋
 I am a Software Engineer who loves to learn new things and push myself to create meaningful projects.
 
-
+My current Project is the SAP1Emu Project, an 8-bit computer emulator build for Saddleback College's Computer Science Department.  Its goal is to help with online learning due to the COVID-19 crisis.  
 <!--
 **rbaker26/rbaker26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
