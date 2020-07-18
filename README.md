@@ -1,4 +1,6 @@
 ### Hi there,  👋
+I am a Software Engineer who loves to learn new things and push myself to create meaningful projects.
+
 
 <!--
 **rbaker26/rbaker26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
