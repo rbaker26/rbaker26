@@ -5,3 +5,4 @@ My current project is the __SAP1Emu Project__, an 8-bit computer emulator built 
 
 
 ### Languages & Skills
+<img src="" alt="html" style="vertical-align:top; margin:4px" />
